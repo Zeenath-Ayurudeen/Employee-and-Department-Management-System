@@ -18,4 +18,6 @@ The **GUI-Based HR Management System** is a Java application designed to meet th
 - **GUI Framework**: Java Swing (for graphical user interfaces)
 - **Database Management**: MySQL (for storing employee and department data)
 
+![GUIs for Colombo Institute of Studies](https://github.com/user-attachments/assets/f3d87258-39ff-4d43-b629-20153b12b23a)
+
 
